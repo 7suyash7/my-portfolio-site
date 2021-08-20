@@ -28,16 +28,16 @@ margin: 2rem 0rem
 }
 
 .primary-link {
-    color:white;
+    color: black;
     background-color: #00FFE9;
     border-radius: 0.5rem;
     }
 
 .secondary-link {
-    color: white;
-    /**border: 1px solid black;**/
+    color: black;
+    border: 1px solid black;
     border-radius: 0.5rem;
-    background-color: #00FFE9;
+    /**background-color: #00FFE9;**/
     }
 
 .non-bullet {
