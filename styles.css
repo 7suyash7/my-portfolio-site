@@ -106,3 +106,23 @@ padding: 2rem;
     text-align: center;
 }
 
+.socials {
+    color:white;
+    background-color: orange;
+    border-radius: 0.5rem;
+}
+
+.social-inline {
+    display: inline;
+}
+
+.footer {
+    background-color: gray;
+    padding: 2rem;
+    text-align: center;
+    color: white;
+}
+
+.footer .link {
+    color: white;
+}
