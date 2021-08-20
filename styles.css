@@ -3,6 +3,7 @@
 body {
     font-family: 'Lato', sans-serif;
 font-family: 'Open Sans', sans-serif;
+margin: 0px;
 }
 
 :root {
@@ -28,15 +29,15 @@ margin: 2rem 0rem
 
 .primary-link {
     color:white;
-    background-color: var(--primary-color);
+    background-color: #00FFE9;
     border-radius: 0.5rem;
     }
 
 .secondary-link {
-    color: black;
-    border: 1px solid rgb(214, 3, 3); 
+    color: white;
+    /**border: 1px solid black;**/
     border-radius: 0.5rem;
-    background-color: orange;
+    background-color: #00FFE9;
     }
 
 .non-bullet {
@@ -49,7 +50,7 @@ margin: 2rem 0rem
 }
 
 .navigation {
-    background-color:green;
+    background-color: #00FFE9;
     color: white;
     border-bottom-right-radius: 1rem;
     }
@@ -99,7 +100,7 @@ padding: 2rem;
 .ow {
     text-align: center;
     padding: 2rem;
-    background-color: rgba(231, 208, 208, 0.925);
+    background-color: #F3F4F6;
 } 
 
 .section-left {
@@ -108,7 +109,7 @@ padding: 2rem;
 
 .socials {
     color:white;
-    background-color: orange;
+    /**background-color: orange;**/
     border-radius: 0.5rem;
 }
 
@@ -121,8 +122,13 @@ padding: 2rem;
     padding: 2rem;
     text-align: center;
     color: white;
+    border-top-right-radius: 0.5rem;
 }
 
 .footer .link {
     color: white;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
 }
