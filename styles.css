@@ -31,12 +31,14 @@ margin: 2rem 0rem
     color: black;
     background-color: #00FFE9;
     border-radius: 0.5rem;
-    }
+    text-align: center;
+}
 
 .secondary-link {
     color: black;
     border: 1px solid black;
     border-radius: 0.5rem;
+    text-align: center;
     /**background-color: #00FFE9;**/
     }
 
