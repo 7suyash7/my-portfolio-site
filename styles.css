@@ -95,7 +95,11 @@ margin: 2rem 0rem
     color: gray;
 }
 
-
+.project-h3 {
+    color: gray;
+    align-items: center
+    ;
+}
 
 .section h3 {
 text-align: center;
