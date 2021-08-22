@@ -10,6 +10,9 @@ margin: 0px;
     --primary-color: red;
 }
 
+.body {
+   color: black ; 
+}
 /** container **/
 .center-container {
     padding-left: 1 rem;
@@ -36,10 +39,10 @@ margin: 2rem 0rem
 
 .secondary-link {
     color: black;
-    border: 1px solid black;
+    border: 1px solid whites;
     border-radius: 0.5rem;
     text-align: center;
-    /**background-color: #00FFE9;**/
+    background-color: purple;
     }
 
 .non-bullet {
@@ -52,7 +55,7 @@ margin: 2rem 0rem
 }
 
 .navigation {
-    background-color: #00FFE9;
+    background-color: #330B44;
     color: white;
     border-bottom-right-radius: 1rem;
     }
@@ -97,12 +100,13 @@ margin: 2rem 0rem
 .section h3 {
 text-align: center;
 padding: 2rem;
+background-color: #330B44;
 }
 
 .ow {
     text-align: center;
     padding: 2rem;
-    background-color: #F3F4F6;
+    background-color:#330B44;
 } 
 
 .section-left {
@@ -120,7 +124,7 @@ padding: 2rem;
 }
 
 .footer {
-    background-color: gray;
+    background-color: #330B44;
     padding: 2rem;
     text-align: center;
     color: white;
