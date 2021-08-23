@@ -107,10 +107,13 @@ margin: 2rem 0rem
     color: gray;
 }
 
+.div{
+color: gray;
+
+}
 .project-h3 {
     color: gray;
-    align-items: center
-    ;
+    align-items: center;
 }
 
 .section h3 {
@@ -123,6 +126,7 @@ background-color: #330B44;
     text-align: center;
     padding: 2rem;
     background-color:#330B44;
+    color: gray;
 } 
 
 .section-left {
