@@ -59,6 +59,7 @@ margin: 2rem 0rem
 
 .non-bullet {
     list-style: none;
+    text-align: center;
 }
 
 .list-inline {
@@ -70,6 +71,7 @@ margin: 2rem 0rem
     background-color: #330B44;
     color: white;
     border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
     }
 
 .nav-pills {
@@ -135,7 +137,7 @@ background-color: #330B44;
 
 .socials {
     color:white;
-    /**background-color: orange;**/
+    
     border-radius: 0.5rem;
 }
 
@@ -145,6 +147,7 @@ background-color: #330B44;
 
 .footer {
     background-color: #330B44;
+    border-bottom-left-radius: 0.5rem;
     padding: 2rem;
     text-align: center;
     color: white;
