@@ -3,7 +3,9 @@
 body {
     font-family: 'Lato', sans-serif;
 font-family: 'Open Sans', sans-serif;
-margin: 0px;
+/* margin: 0px; */
+/* margin-left: 0px;
+margin-right: 0px; */
 }
 
 :root {
@@ -11,7 +13,7 @@ margin: 0px;
 }
 
 .body {
-   color: black ; 
+   color: black; 
 }
 /** container **/
 .center-container {
@@ -84,6 +86,10 @@ margin: 2rem 0rem
     padding: 1rem;
     font-size: 1.1rem;
 }
+
+.link:hover {
+    color: white;
+}
   
 .navigation .link {
     color: white;
@@ -109,10 +115,11 @@ margin: 2rem 0rem
     color: gray;
 }
 
-.div{
+/* .div{
 color: gray;
+} */
 
-}
+
 .project-h3 {
     color: gray;
     align-items: center;
@@ -160,4 +167,9 @@ background-color: #330B44;
 
 .footer ul {
     padding-inline-start: 0px;
+}
+
+.project-heading {
+    padding: 2rem;
+    color: gray;
 }
