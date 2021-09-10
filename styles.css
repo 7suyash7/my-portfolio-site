@@ -1,11 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
 body {
-    font-family: 'Lato', sans-serif;
-font-family: 'Open Sans', sans-serif;
-/* margin: 0px; */
-/* margin-left: 0px;
-margin-right: 0px; */
+    font-family: 'Inter', sans-serif;
 }
 
 :root {
@@ -15,7 +11,7 @@ margin-right: 0px; */
 .body {
    color: black; 
 }
-/** container **/
+
 .center-container {
     padding-left: 1 rem;
     padding-right: 1 rem;
@@ -115,9 +111,9 @@ margin: 2rem 0rem
     color: gray;
 }
 
-/* .div{
+.div{
 color: gray;
-} */
+}
 
 
 .project-h3 {
